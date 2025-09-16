@@ -129,6 +129,17 @@ series = {UIST '23}
 }
 ```
 
+## <img src="https://joonsungpark.s3.amazonaws.com:443/static/assets/characters/profile/Sam_Moore.png" alt="Generative Sam">   Technical Documentation
+
+For comprehensive technical documentation including system architecture, cognitive modules, and API references, see:
+
+📋 **[Technical Documentation](docs/README.md)**
+
+The documentation includes:
+- **[System Architecture](docs/TECHNICAL_ARCHITECTURE.md)**: Complete system overview with mermaid diagrams
+- **[Cognitive Architecture](docs/COGNITIVE_ARCHITECTURE.md)**: Deep dive into agent intelligence and behavior  
+- **[API Reference](docs/API_REFERENCE.md)**: Complete API and data structure documentation
+
 ## <img src="https://joonsungpark.s3.amazonaws.com:443/static/assets/characters/profile/Wolfgang_Schulz.png" alt="Generative Wolfgang">   Acknowledgements
 
 We encourage you to support the following three amazing artists who have designed the game assets for this project, especially if you are planning to use the assets included here for your own project: 
